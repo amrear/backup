@@ -78,7 +78,7 @@ bash <(curl -Ls https://github.com/AC-Lover/backup/raw/main/backup.sh)
 
 ###
 
-<h3 align="left">Step 7 : question of removing previous crown jobs</h3>
+<h3 align="left">Step 7 : question of removing previous cron jobs</h3>
 
 ###
 
@@ -98,7 +98,7 @@ bash <(curl -Ls https://github.com/AC-Lover/backup/raw/main/backup.sh)
 
 ###
 
-<p align="left">I used the translator and if I have gramme problem please help me to improve it<br>Also, I have tested this script only on Ubuntu and developers can help us to develop this script for other operating systems.</p>
+<p align="left">I used the translator and if I have grammatical mistakes please help me to improve it<br>Also, I have tested this script only on Ubuntu and developers can help us to develop this script for other operating systems.</p>
 
 ###
 
